@@ -1,43 +1,6 @@
 ﻿🇨🇳央视卫视🇨🇳,#genre#
 
-https://raw.githubusercontent.com/l19270149853/02/refs/heads/main/0.txt
 
-https://cdn.jsdelivr.net/gh/l19270149853/01@refs/heads/main/0.txt
-
-https://www.ghproxy.cn/https://raw.githubusercontent.com/l19270149853/02/refs/heads/main/YS.txt
-
-https://cdn.jsdelivr.net/gh/l19270149853/02@refs/heads/main/0.txt
-
-
-
-
-https://codeberg.org/l19270149853/abcxxx0855/raw/branch/main/%E8%B4%B5%E5%B7%9E%E7%A7%BB%E5%8A%A8%E7%BD%91%E7%BB%9C%E7%94%B5%E8%A7%86.txt
-https://codeberg.org/l19270149853/abcxxx0855/raw/branch/main/YS.txt
-//酒店IP
-
-♥️https://quake.360.net/quake/#/index
-语法搜索例子：udpxy AND country: "China" AND city: "beijing City"
-
-udpxy AND country: "China" AND city: "beijing City" AND is_domain=true
-
-"iptv/live/zh_cn.js" AND country="CN" AND region="Hebe"
-
-♥️https://www.zoomeye.org/
-搜索语法例子：
-udpxy +country:"CN" +subdivisions:"湖北" +city:"武汉" + is_domain=true
-"iptv/live/zh_cn.js"+country:"CN" +subdivisions:"湖北" +city:"武汉" + is_domain=true
-
-♥️https://fofa.info/
-帮助语法搜索例子：
-"udpxy" && region="Hubei" && city="Wuhan" && is_domain=true 
-
-搜索语法"iptv/live/zh_cn.js" && country="CN" && region="Hebei"
-
-"udpxy" && region="Beijing" && is_domain=true && org="China Unicom Beijing Province Network"
-
-https://codeberg.org/l19270149853/abcxxx0855/raw/branch/main/YS.txt
-
-IP查询 https://iplark.com/
 
 
 🇨🇳🇨🇳🇨🇳🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
